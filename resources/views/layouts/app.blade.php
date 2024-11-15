@@ -44,7 +44,7 @@
                         <img src="/svg/instagram.svg" style="height: 22px; border-right: 1px solid #333;" class="pr-3">
                     </div>
 
-                    <div class="pl-3">
+                    <div>
                         Instagram
                     </div>
 
